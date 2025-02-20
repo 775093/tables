@@ -3,7 +3,7 @@
 React table component with useful functions.
 
 [![NPM version][npm-image]][npm-url] [![dumi](https://img.shields.io/badge/docs%20by-dumi-blue?style=flat-square)](https://github.com/umijs/dumi) [![build status][github-actions-image]][github-actions-url] [![Test coverage][codecov-image]][codecov-url] [![npm download][download-image]][download-url] [![bundle size][bundlephobia-image]][bundlephobia-url]
-
+narayan
 [npm-image]: http://img.shields.io/npm/v/rc-table.svg?style=flat-square
 [npm-url]: http://npmjs.org/package/rc-table
 [github-actions-image]: https://github.com/react-component/table/workflows/CI/badge.svg
